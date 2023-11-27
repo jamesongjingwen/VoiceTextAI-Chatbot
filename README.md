@@ -19,8 +19,8 @@ This project presents an interface that integrates OpenAI's powerful API, enabli
 
 ### Example of a Prompt and Answer
 
-![alt text](https://github.com/jamesongjingwen/VoictTextAI-Chatbot/blob//Example of a Prompt and Answer.png)
-<img src="https://raw.githubusercontent.com/jamesongjingwen/VoictTextAI-Chatbot/master/WExample of a Prompt and Answer.png">
+<img src="https://raw.githubusercontent.com/jamesongjingwen/VoiceTextAI-Chatbot/master/WExample of a Prompt and Answer.png">
+
 ### Applications:
 
 This interface is ideal for those seeking an accessible and efficient way to interact with AI technology. 
